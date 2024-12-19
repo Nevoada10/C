@@ -1,4 +1,9 @@
-#include <cs50.h>
+// gcc 3points.c cs50.c -o 3points
+
+// Author: ~ Nevoada (Uriel Neves Silva)
+// Credits to professor David J. Malan (Harvard CS50)
+
+#include "cs50.h"
 #include <stdio.h>
 
 int main(void)
@@ -10,7 +15,7 @@ int main(void)
     {
         printf("You had fewer points than me.\n");
     }
-    else if (points < MINE) code
+    else if (points < MINE)
     {
         printf("You lost more points than me.\n");
     }

@@ -1,5 +1,10 @@
-#include <stdio.h>
-#include <cs50.h>
+// gcc 1hello.c cs50.c -o 1hello.c
+
+// Author: ~ Nevoada (Uriel Neves Silva)
+// Credits to professor David J. Malan (Harvard CS50)
+
+#include "cs50.h" // Get ; String implementatation
+#include <stdio.h> // Printf
 
 int main(void)
 {

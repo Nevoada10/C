@@ -1,4 +1,7 @@
-#include <cs50.h>
+// gcc 2calculator.c cs50.c -o 2calculator
+
+
+#include "cs50.h"
 #include <stdio.h>
 
 int main(void)
