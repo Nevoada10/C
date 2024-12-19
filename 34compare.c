@@ -1,3 +1,5 @@
+// gcc 34compare.c cs50.c -o 34compare
+
 // Author: ~ Nevoada (Uriel Neves Silva)
 // Credits to professor David J. Malan (Harvard CS50)
 
